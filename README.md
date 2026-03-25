@@ -5,7 +5,7 @@
 #### About Me
 I am a software development student studying at 42 Lausanne. I have a foundation of professional experience in educational environments most recently as a teaching assistant for programming as a part of the bachelor at EHL (Ecole Hoteliere de Lausanne).
 
-I enjoy discovering and learning new tools and ways of coding. Within my code I like to make it my own, by adapting existing code or coming up with fresh ideas to fully own my work.
+I enjoy discovering and learning new tools and ways of coding. Within my work I like to make it my own, by adapting existing code or coming up with fresh ideas to have a final product that I truly understand.
 
 ---
 
