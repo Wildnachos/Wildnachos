@@ -1,17 +1,29 @@
 # Hi, I'm Anouar 👋
-
 [![akabbaj's 42 stats](https://badge.mediaplus.ma/darkblue/akabbaj?1337Badge=off&UM6P=off)](https://profile-v3.intra.42.fr/users/akabbaj)
 
 #### About Me
-I am a software development student studying at 42 Lausanne. I have a foundation of professional experience in educational environments most recently as a teaching assistant for programming as a part of the bachelor at EHL (Ecole Hoteliere de Lausanne).
+I am a software development student at 42 Lausanne with a focus on low-level programming and systems development.  
 
-I enjoy discovering and learning new tools and ways of coding. Within my work I like to make it my own, by adapting existing code or coming up with fresh ideas to have a final product that I truly understand.
+I have experience building projects in C and C++, including a web server, a Unix shell, and a ray tracer. I am particularly interested in understanding how software works under the hood, from memory management to networking.
+
+Previously, I worked as a teaching assistant for programming at EHL, where I supported students in Python and VBA.
 
 ---
 
 #### Educational Projects
 📂 [42 Projects](https://github.com/stars/Wildnachos/lists/42-projects)
 
+---
+
+#### Currently Working On
+- Building a home server which will:
+    - Host a backup server.
+    - Host a media server.
+    - Host anouarkabbaj.com (coming soon!)
+ 
+- 42_Transcendence
+    - The final Ecole 42 common-core project.
+ 
 ---
 
 #### Tools I am familiar with
@@ -27,6 +39,12 @@ I enjoy discovering and learning new tools and ways of coding. Within my work I 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+#### Contact
+- LinkedIn: [Linkedin](https://linkedin.com/in/anouar-kabbaj)
+- Email: [anouarkabbajhk@gmail.com](mailto:anouarkabbajhk@gmail.com)
 
 ---
 
